@@ -1,0 +1,76 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Adamina');
+@import url('https://fonts.googleapis.com/css?family=Advent Pro');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#topBar ul {
+	list-style-type: none;
+   	margin: 0;
+    	padding: 0px 0px 3px 0px;
+    	overflow: hidden;
+}
+
+#topBar li {
+	float: left;
+	display: block;
+    	color: #cec8c8;
+    	padding: 14px 16px;
+    	text-decoration: none;
+    	font-family: Roboto Slab;
+}
+
+#topBar li a {
+	color: #cec8c8;
+}
+
+#topBar ul #floatRight {
+	float: right;
+}
+
+#mainHeading {
+	font-size: 10px;
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+	height: 100%;
+	width: 100%;
+	line-height: 51px;
+}
+
+#navbar ul {
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+	text-align: center;
+	position: fixed;
+	top: 180px;
+	width: 100%;
+}
+
+#navbar li {
+	text-align: center;
+	display: inline;
+}
+
+#navbar ul #activePage a {
+	color: #cec8c8;
+}
+
+#navbar li a {
+    	color: black;
+    	padding: 14px 35px;
+    	text-decoration: none;
+    	font-family: Roboto Slab;
+	font-size: 25px;
+	text-align: center;
+}
+
+#soupSaladVote {
+	text-align: center;
+}
