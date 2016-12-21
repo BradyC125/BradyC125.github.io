@@ -42,13 +42,17 @@ a {
 	line-height: 51px;
 }
 
+#navbar {
+	background-color: white;
+}
+
 #navbar ul {
     	list-style-type: none;
     	margin: 0;
     	padding: 0;
     	overflow: hidden;
 	text-align: center;
-	position: fixed;
+	position: relative;
 	width: 100%;
 }
 
