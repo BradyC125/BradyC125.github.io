@@ -52,7 +52,7 @@ a {
     	padding: 0;
     	overflow: hidden;
 	text-align: center;
-	position: relative;
+	position: fixed;
 	width: 100%;
 }
 
