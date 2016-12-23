@@ -74,6 +74,13 @@ a {
 	text-align: center;
 }
 
+#stickyNavBar {
+	position: fixed;
+	top: 10;
+	background-color: white;
+	z-index: 1;
+}
+
 #soupSaladVote {
 	text-align: center;
 }
