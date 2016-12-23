@@ -1,14 +1,9 @@
-$(document).ready(function(){
-  
-  $("p").hide()
-  
-  var navBar = $("#navbar");
-
-  navBar.on("scroll", function() {
+$("p").hide()
+var navBar = $("#navbar");
+navBar.on("scroll", function() {
     if (this.scrollTop > 30) {
-      navBar.addClass("stickyNavBar");
+        navBar.addClass("stickyNavBar");
     } else {
-      navBar.removeClass("stickyNavBar");
+        navBar.removeClass("stickyNavBar");
   }
-  
-});
+}
