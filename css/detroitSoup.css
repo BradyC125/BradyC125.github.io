@@ -77,7 +77,7 @@ a {
 #stickyNavBar {
 	position: fixed;
 	top: 10;
-	background-color: white;
+	background-color: black;
 	z-index: 1;
 }
 
