@@ -4,7 +4,7 @@ $(document).ready(function(){
   
   var navBar = $("#navbar");
 
-  navBar.on("scroll", function(e) {
+  navBar.on("scroll", function() {
     if (this.scrollTop > 30) {
       navBar.addClass("stickyNavBar");
     } else {
