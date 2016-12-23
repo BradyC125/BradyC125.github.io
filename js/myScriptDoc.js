@@ -1,4 +1,4 @@
-$("p").hide()
+$("p").css("color", "red")
 var navBar = $("#navbar");
 navBar.on("scroll", function() {
     if (this.scrollTop > 30) {
