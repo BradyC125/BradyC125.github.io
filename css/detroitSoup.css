@@ -6,7 +6,7 @@
 
 a {
 	text-decoration: none;
-	color: black;
+	color: purple;
 }
 
 #topBar ul {
@@ -53,7 +53,6 @@ a {
     	padding: 0;
     	overflow: hidden;
 	text-align: center;
-	position: fixed;
 	width: 100%;
 }
 
