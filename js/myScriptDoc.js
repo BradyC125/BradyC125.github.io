@@ -1,6 +1,8 @@
 $(function(){
   
-  var navBar = $("#navBar");
+  $("p").hide()
+  
+  var navBar = $("#navbar");
 
   navBar.on("scroll", function(e) {
     if (this.scrollTop > 30) {
