@@ -5,6 +5,21 @@
 	<link rel="stylesheet" href="css/detroitSoup.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+	<script>
+		$(document).ready(function(){
+    			alert("This site is under development!");
+    			$("p").text("Test2!");
+    			$("p").css("color", "red");
+    			var navBar = $("#navbar");
+    			navBar.on("scroll", function() {
+        			if (this.scrollTop > 30) {
+            				navBar.addClass("stickyNavBar");
+        			} else {
+            				navBar.removeClass("stickyNavBar");
+        			}
+    			}
+		});
+	</script>
 	<script src="BradyC125.github.io/js/myScriptDoc.js"></script>
 </head><body>
 	<div id="topBar">
