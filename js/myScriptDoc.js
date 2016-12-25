@@ -1,5 +1,5 @@
+alert("This site is under development!");
 $(document).ready(function(){
-    alert("This site is under development!");
     $("p").text("Test2!");
     $("p").css("color", "red");
     var navBar = $("#navbar");
