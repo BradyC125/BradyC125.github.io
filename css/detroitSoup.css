@@ -16,6 +16,10 @@ h1 {
 	color: #baaaaa;
 }
 
+hr {
+	width: 50em;	
+}
+
 #topBar ul {
 	list-style-type: none;
    	margin: 0;
