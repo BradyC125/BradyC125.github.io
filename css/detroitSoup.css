@@ -12,7 +12,7 @@ a {
 
 h1 {
 	text-align: center;
-	font-family: Roboto; 
+	font-family: 'Roboto'; 
 	color: #baaaaa;
 }
 
@@ -29,7 +29,7 @@ h1 {
     	color: #cec8c8;
     	padding: 14px 16px;
     	text-decoration: none;
-    	font-family: Roboto Slab;
+    	font-family: 'Roboto Slab';
 }
 
 #topBar li a {
@@ -76,7 +76,7 @@ h1 {
     	color: black;
     	padding: 14px 35px;
     	text-decoration: none;
-    	font-family: Roboto Slab;
+    	font-family: 'Roboto Slab';
 	font-size: 25px;
 	text-align: center;
 }
@@ -94,7 +94,7 @@ h1 {
 .summary {
 	text-align: center;
 	margin: 0 auto;
-	font-family: Abel;
+	font-family: 'Abel';
 	font-size: 20px;
 	max-width: 1100px;
 }
@@ -105,6 +105,9 @@ h1 {
 .orangeAndWhite {
 	text-align: center;
 	color: white;
-	background-color: orange;
+	background-color: #f2602b;
 	padding: 14px 16px 14px 16px;
+	font-family: 'Roboto';
+    	font-weight: 675;
+    	letter-spacing: 0px;
 }
