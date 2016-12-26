@@ -124,3 +124,17 @@ hr {
 .orangeAndWhite:hover {
 	opacity: .8;
 }
+
+.thankYou {
+	background-color: #969191;
+}
+
+#bottomLeft {
+	float: left;
+	max-width: 48vw;
+}
+
+#bottomRight {
+	float: right;
+	max-width: 48vw;
+}
