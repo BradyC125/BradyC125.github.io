@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Abel');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Adamina');
 @import url('https://fonts.googleapis.com/css?family=Advent Pro');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
@@ -13,7 +13,7 @@ a {
 h1 {
 	text-align: center;
 	font-family: Roboto; 
-	color: #50586b;
+	color: #cec8c8;
 }
 
 #topBar ul {
