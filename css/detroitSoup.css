@@ -102,3 +102,9 @@ h1 {
 .button {
 	text-align: center;
 }
+.orangeAndWhite {
+	text-align: center;
+	color: white;
+	background-color: orange;
+	padding: 14px 16px 14px 16px;
+}
