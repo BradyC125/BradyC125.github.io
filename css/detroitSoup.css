@@ -128,7 +128,11 @@ hr {
 #thankYou {
 	background-color: #969191;
 	color: white;
+<<<<<<< HEAD
 	width: 100vw;
+=======
+	width: 100%
+>>>>>>> parent of 4cf7931... add semicolon
 }
 
 #bottomLeft {
