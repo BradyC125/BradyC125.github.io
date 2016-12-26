@@ -132,12 +132,12 @@ hr {
 
 #bottomLeft {
 	float: left;
-	max-width: 48vw;
+	width: 48vw;
 	background-color: #969191;
 }
 
 #bottomRight {
 	float: right;
-	max-width: 48vw;
+	width: 48vw;
 	background-color: #969191;
 }
