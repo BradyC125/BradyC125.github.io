@@ -94,6 +94,7 @@ h1 {
 
 .summary {
 	text-align: center;
+	margin: 0 auto;
 	font-family: Abel;
 	font-size: 20px;
 	width: 1000px;
