@@ -1,10 +1,9 @@
-alert("alert12")
 $(document).ready(function(){
-    alert("alert2")
+    alert("alert1");
     var navBar = $("#navbar");
     $(document).on("scroll", function(e) {
-        alert("alert")
         if (this.scrollTop > 30) {
+            alert("alert2");
             navBar.addClass("stickyNavBar");
         } else {
             navBar.removeClass("stickyNavBar");
