@@ -129,10 +129,14 @@ hr {
 	background-color: #969191;
 	color: white;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	width: 100vw;
 =======
 	width: 100%
 >>>>>>> parent of 4cf7931... add semicolon
+=======
+	width: 100%;
+>>>>>>> origin/master
 }
 
 #bottomLeft {
