@@ -113,4 +113,5 @@ h1 {
 	text-transform: uppercase;
 	line-height: 16px;
     	font-size: 15px;
+	border-width: 0;
 }
