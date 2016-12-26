@@ -1,4 +1,3 @@
-alert("This site is under development!");
 $(document).ready(function(){
     var navBar = $("#navbar");
     navBar.on("scroll", function() {
@@ -7,5 +6,5 @@ $(document).ready(function(){
         } else {
             navBar.removeClass("stickyNavBar");
         }
-    }
-)});
+    })
+});
