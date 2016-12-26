@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    alert("alert1");
+    alert("Hello!");
     var navBar = $("#navbar");
-    navBar.toggleClass("stickyNavBar", this.scrollTop > 147);
+    navBar.toggleClass("stickyNavBar", this.scrollTop > 30);
     })
 });
