@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Adamina');
-@import url('https://fonts.googleapis.com/css?family=Advent Pro');
+@import url('https://fonts.googleapis.com/css?family=Advent+Pro');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 a {
@@ -90,4 +90,10 @@ h1 {
 
 #soupSaladVote {
 	text-align: center;
+}
+
+.summary {
+	text-align: center;
+	font-family: Abel;
+	font-size: 10px;
 }
