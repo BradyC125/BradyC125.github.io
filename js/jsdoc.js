@@ -1,4 +1,4 @@
-alert("alert1")
+alert("alert12")
 $(document).ready(function(){
     alert("alert2")
     var navBar = $("#navbar");
