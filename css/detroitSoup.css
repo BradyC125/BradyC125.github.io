@@ -127,6 +127,7 @@ hr {
 
 #thankYou {
 	background-color: #969191;
+	font-family: 'Advent Pro';
 	color: white;
 	width: 100%;
 }
@@ -141,4 +142,8 @@ hr {
 	float: right;
 	width: 48vw;
 	background-color: #969191;
+}
+
+#thankYou ... span{
+	font-size: 25px;
 }
