@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Adamina');
-@import url('https://fonts.googleapis.com/css?family=Advent+Pro');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 a {
@@ -127,7 +126,7 @@ hr {
 
 #thankYou {
 	background-color: #969191;
-	font-family: 'Advent Pro';
+	font-family: 'Adamia';
 	color: white;
 	width: 100%;
 }
