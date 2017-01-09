@@ -132,8 +132,12 @@ hr {
 	width: 90%;
 }
 
-#bottom {
+#bottom li {
 	display: inline;
+}
+
+#bottom {
+	width: 100%;
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
