@@ -132,19 +132,11 @@ hr {
 	width: 90%;
 }
 
-#bottom li {
-	display: inline;
-}
-
-#bottom {
-	width: 100%;
-	list-style-type: none;
-    	margin: 0;
-    	padding: 0;
-    	overflow: hidden;
-}
-
 #thankYou ... span{
 	font-size: 25px;
 	font-family: 'Roboto Slab';
+}
+
+.thankYouList {
+	float: left;
 }
