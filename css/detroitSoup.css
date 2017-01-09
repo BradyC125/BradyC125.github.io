@@ -132,6 +132,12 @@ hr {
 	width: 90%;
 }
 
+#bottom {
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+
 #bottomLeft {
 	float: left;
 	width: 48vw;
