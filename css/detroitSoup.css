@@ -130,6 +130,7 @@ hr {
 
 footer{
 	padding: 0;
+	overflow: hidden;
 }
 
 .sponsors{
