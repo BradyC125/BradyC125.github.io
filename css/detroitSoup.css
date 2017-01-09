@@ -123,20 +123,3 @@ hr {
 .orangeAndWhite:hover {
 	opacity: .8;
 }
-
-#bottom {
-	background-color: #969191;
-	font-family: 'Roboto';
-	color: white;
-	max-width: 960px;
-	width: 90%;
-}
-
-#bottom ... span{
-	font-size: 25px;
-	font-family: 'Roboto Slab';
-}
-
-.thankYouList {
-	float: left;
-}
