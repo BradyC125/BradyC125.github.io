@@ -123,3 +123,8 @@ hr {
 .orangeAndWhite:hover {
 	opacity: .8;
 }
+
+.sponsors{
+	text-align: center;
+	background-color: black;
+}
