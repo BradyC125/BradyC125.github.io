@@ -124,7 +124,7 @@ hr {
 	opacity: .8;
 }
 
-#thankYou {
+#bottom {
 	background-color: #969191;
 	font-family: 'Roboto';
 	color: white;
@@ -132,7 +132,7 @@ hr {
 	width: 90%;
 }
 
-#thankYou ... span{
+#bottom ... span{
 	font-size: 25px;
 	font-family: 'Roboto Slab';
 }
