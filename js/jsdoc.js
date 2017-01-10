@@ -2,9 +2,9 @@ $(document).ready(function(){
    var elementPosition = $('#navbar').offset();
     $(window).scroll(function () {
     if ($(window).scrollTop() > elementPosition.top) {
-       $('#navbar').className = "stickyNavBar";
+       $('#navbar').css('position', 'fixed').css('top', '0')
     } else {
-       $('#navbar').className = "scrolling";
+        $('#navbar').css('position', 'static');
     }
   })});
 
