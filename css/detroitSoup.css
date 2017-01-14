@@ -88,12 +88,6 @@ hr {
 	text-align: center;
 }
 
-.stickyNavBar {
-	position: fixed;
-	top: 10;
-	background-color: black;
-}
-
 #soupSaladVote {
 	text-align: center;
 }
@@ -109,6 +103,7 @@ hr {
 .button {
 	text-align: center;
 	padding: 0px 0px 25px 0px;
+	
 }
 .orangeAndWhite {
 	text-align: center;
