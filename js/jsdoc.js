@@ -3,7 +3,7 @@ $(document).ready(function(){
     $(window).scroll(function () {
     if ($(window).scrollTop() > elementPosition.top) {
        $('#navbar').css('position', 'fixed').css({'top':'0','left':'0','right':'0'}).css('text-align', 'center');
-       $('#mainContent').css('margin-top', '25px'); 
+       $('#mainContent').css('margin-top', '125px'); 
     } else {
        $('#navbar').css('position', 'static');
        $('#mainContent').css('margin-top', '0px'); 
