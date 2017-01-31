@@ -152,15 +152,17 @@ footer{
 
 #left-half{
 	box-sizing: border-box;
-	width: 50vw;
-	padding: 5vw 5vw 5vw 20vw;
+	max-width: 50vw;
+	min-width: 50vw;
+	padding: 5vw 2.5vw 5vw 20vw;
 	float: left;
 }
 
 
 #right-half{
 	box-sizing: border-box;
-	width: 50vw;
-	padding: 5vw 20vw 5vw 5vw;
+	max-width: 50vw;
+	min-width: 50vw;
+	padding: 5vw 20vw 5vw 2.5vw;
 	float: right;
 }
