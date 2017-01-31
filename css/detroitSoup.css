@@ -153,17 +153,15 @@ footer{
 #left-half{
 	box-sizing: border-box;
 	width: 100vw;
-	padding: 5vw, 12.5vw, 5vw;
+	padding: 20px, 50px, 20px;
 	float: left;
-	height: 500px;
 }
 
 
 #right-half{
 	box-sizing: border-box;
 	width: 100vw;
-	padding: 5vw, 12.5vw, 5vw;
+	padding: 20px, 50px, 20px;
 	float: right;
-	height: 500px;
 }
 
