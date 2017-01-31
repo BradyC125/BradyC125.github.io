@@ -152,16 +152,16 @@ footer{
 
 #left-half{
 	box-sizing: border-box;
-	width: 100vw;
-	padding: 20px, 50px, 20px;
+	width: 50vw;
+	padding: 20px, 50px;
 	float: left;
 }
 
 
 #right-half{
 	box-sizing: border-box;
-	width: 100vw;
-	padding: 20px, 50px, 20px;
+	width: 50vw;
+	padding: 20px, 50px;
 	float: right;
 }
 
