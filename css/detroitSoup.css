@@ -19,6 +19,12 @@ h1 {
 	color: #baaaaa;
 }
 
+h3 {
+	font-family: 'Roboto';
+	color: black;
+	text-decoration: bold;
+}
+
 hr {
 	width: 50em;	
 }
@@ -143,3 +149,17 @@ footer{
 	min-height: 20vh;
 	overflow: hidden;
 }
+
+#left-half{
+	box-sizing: border-box;
+	width: 100vw;
+	padding: 5vw, 12.5vw, 5vw;
+}
+
+
+#right-half{
+	box-sizing: border-box;
+	width: 100vw;
+	padding: 5vw, 12.5vw, 5vw;
+}
+
