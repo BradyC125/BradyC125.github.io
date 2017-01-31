@@ -160,7 +160,7 @@ footer{
 	box-sizing: border-box;
 	max-width: 50%;
 	min-width: 50%;
-	padding: 5% 2.5% 5% 20%;
+	padding: 5% 2.5% 5% 17%;
 	float: left;
 }
 
@@ -169,6 +169,10 @@ footer{
 	box-sizing: border-box;
 	max-width: 50%;
 	min-width: 50%;
-	padding: 5% 20% 5% 2.5%;
+	padding: 5% 17% 5% 2.5%;
 	float: right;
+}
+
+#indent {
+	padding-left: 5%;
 }
