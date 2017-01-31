@@ -22,7 +22,7 @@ h1 {
 h3 {
 	font-family: 'Roboto';
 	color: black;
-	text-decoration: bold;
+	font-weight: bold;
 }
 
 hr {
@@ -153,7 +153,7 @@ footer{
 #left-half{
 	box-sizing: border-box;
 	width: 50vw;
-	padding: 20px, 50px;
+	padding: 20px 50px;
 	float: left;
 }
 
@@ -161,7 +161,6 @@ footer{
 #right-half{
 	box-sizing: border-box;
 	width: 50vw;
-	padding: 20px, 50px;
+	padding: 20px 50px;
 	float: right;
 }
-
