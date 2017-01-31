@@ -154,6 +154,8 @@ footer{
 	box-sizing: border-box;
 	width: 100vw;
 	padding: 5vw, 12.5vw, 5vw;
+	float: left;
+	height: 500px;
 }
 
 
@@ -161,5 +163,7 @@ footer{
 	box-sizing: border-box;
 	width: 100vw;
 	padding: 5vw, 12.5vw, 5vw;
+	float: right;
+	height: 500px;
 }
 
