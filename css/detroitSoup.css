@@ -185,11 +185,7 @@ footer{
 .coloredSquare:before {
   content:'\25A0';
   display: block;
-  position: relative;
-  max-width: 0;
-  max-height: 0;
-  left: -10px;
   top: 0;
   color: #3a3a3a;
-  font-size: 20px;
+  font-size: 10px;
 }
