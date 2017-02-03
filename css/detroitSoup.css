@@ -177,3 +177,19 @@ footer{
 .indent {
 	padding-left: 8%;
 }
+
+.coloredSquare {
+  list-style: none;
+}
+
+.coloredSquare:before {
+  content:'\25A0';
+  display: block;
+  position: relative;
+  max-width: 0;
+  max-height: 0;
+  left: -10px;
+  top: 0;
+  color: #3a3a3a;
+  font-size: 20px;
+}
