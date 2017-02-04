@@ -8,6 +8,7 @@ $(document).ready(function(){
     } else {
        $('#navbar').css('position', 'static');
        $('#mainContent').css('margin-top', '0px'); 
+       $('#content').css('margin-top', '0px');
     }
   })});
 
