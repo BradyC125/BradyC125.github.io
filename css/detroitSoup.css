@@ -192,3 +192,8 @@ footer{
   float: left;
   padding: 3px 10px 0px 0px;
 }
+
+#centerCollumn {
+	margin: 0 auto;
+	width: 50%;
+}
