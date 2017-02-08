@@ -213,5 +213,6 @@ footer{
 #donateButton {
 	text-align: center;
 	margin: 0 auto;
-	padding-top: 35px;
+	padding-top: 30px;
+	padding-bottom: 50px;
 }
