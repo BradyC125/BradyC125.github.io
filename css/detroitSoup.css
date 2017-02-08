@@ -209,3 +209,9 @@ footer{
 .socialMediaLink {
 	color: #2ec6f7;
 }
+
+#donateButton {
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 35px;
+}
