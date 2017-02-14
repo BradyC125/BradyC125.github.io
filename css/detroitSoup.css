@@ -120,6 +120,11 @@ hr {
 	max-width: 85%;
 }
 
+#soupSaladVotePic {
+	width: 990px;
+	height: 198px;
+}
+
 .summary {
 	text-align: center;
 	margin: 0 auto;
