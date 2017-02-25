@@ -27,13 +27,6 @@ h2 {
 	font-size: 35px;
 }
 
-h3 {
-	font-family: 'Roboto Slab';
-	color: 'black';
-	font-size: 20px;
-	font-weight: normal;
-}
-
 p {
 	font-family: 'Roboto';
 	font-size: 16px;
@@ -169,23 +162,6 @@ footer{
 	padding: 0;
 	min-height: 20vh;
 	overflow: hidden;
-}
-
-#left-half{
-	box-sizing: border-box;
-	max-width: 50%;
-	min-width: 50%;
-	padding: 0% 2.5% 5% 17%;
-	float: left;
-}
-
-
-#right-half{
-	box-sizing: border-box;
-	max-width: 50%;
-	min-width: 50%;
-	padding: 0% 17% 5% 2.5%;
-	float: right;
 }
 
 .indent {
