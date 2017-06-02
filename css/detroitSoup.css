@@ -154,6 +154,10 @@ hr {
 	opacity: .8;
 }
 
+.spacer {
+	height: 15px;
+}
+
 footer{
 	padding: 0;
 	overflow: hidden;
